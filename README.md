@@ -1,1 +1,2 @@
 # CS-330
+These design skills will fundamentally make a better overall coder for me because they will allow me to work with the shapes that are used to make up everything. I work through the program one step at a time to make the program overall versatile. A tactic I would use more is having a greater fundamental understanding before I code away. I learned to take each section at a time I greatly improved my understanding of how The system interacts with other sections. 
