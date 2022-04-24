@@ -1,0 +1,18 @@
+﻿  Source.cpp
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\shader.h(57): warning C4101: 'e': unreferenced local variable
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(307): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(334): warning C4305: 'argument': truncation from 'double' to 'float'
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(380): warning C4305: 'argument': truncation from 'double' to 'float'
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(394): warning C4305: 'argument': truncation from 'double' to 'float'
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(405): warning C4305: 'argument': truncation from 'double' to 'float'
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(162): warning C4101: 'cubeVAO': unreferenced local variable
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(464): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(480): warning C4551: function call missing argument list
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(499): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(504): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(505): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(506): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+u:\openglsample\openglsample cylinder\openglsample\openglsample\openglsample\source.cpp(507): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> U:\OpenGLSample\OpenGLSample Cylinder\OpenGLSample\OpenGLSample\Debug\OpenGLSample.exe
